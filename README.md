@@ -1,7 +1,9 @@
 # Genetic-algo
 
 ## What is this?
-The program tries to guess the given string using a generic algorithm
+
+The program tries to guess the given string using a generic algorithm.  
+Genetic Algorithms much like natural evolution in order to linearly search problems and optimize them.  
 A DNA objects holds the strings. They are controled by a population object which manages breeding and the mating pool.
 
 ## How does this work?
