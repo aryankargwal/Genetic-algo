@@ -28,4 +28,4 @@ Running the script in the given way will fetch you an output like this:<br>
 The code has been cleaned and restructered by [Aryan](https://github.com/aryankargwal).
 
 ## License
-Presented repository is under the [MIT License](license.md)
+Presented repository is under the [MIT License](LICENSE)
