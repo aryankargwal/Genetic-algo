@@ -20,6 +20,10 @@ Now running the file:<br>
 To further dive deeper into the usage you can use the following command:<br>
 `python run.py -h`
 
+## Sample Output
+Running the script in the given way will fetch you an output like this:<br>
+<img src="assets/output.png" height="500px">
+
 ## Contribution
 The code has been cleaned and restructered by [Aryan](https://github.com/aryankargwal).
 
