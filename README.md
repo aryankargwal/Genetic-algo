@@ -7,7 +7,7 @@ Genetic Algorithms much like natural evolution in order to linearly search probl
 A DNA objects holds the strings. They are controled by a population object which manages breeding and the mating pool.
 
 ## How does this work?
-<img src="assets/genetic.png"><br>
+<img src="assets/genetic.jpg"><br>
 For every generation of strings a score is assigned to compare them which are then converted into probabilities in the skiwscore.<br>
 DNA objects have a better chance of getting selected as parents if they have a higher probability.<br>
 The breeding function selectes a random pivot and splits the two parents and forms a new dna object.
