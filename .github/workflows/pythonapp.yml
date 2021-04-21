@@ -25,4 +25,4 @@ jobs:
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
       - name: Test
         run: |
-          python GaTextEvolution.py
+          python run.py github 500 0.1
