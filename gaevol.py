@@ -18,12 +18,10 @@ from population import population
 random.seed(0)
 
 
-def gaevol(a):
-    char = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz "
-    pltdata = []
+def gaevol(a, p, m):
     end = a
-    pop = 500
-    mutrate = 0.001
+    pop = int(p)
+    mutrate = float(m)
 
     st = time.time()
     driver = population(end, pop, mutrate)
